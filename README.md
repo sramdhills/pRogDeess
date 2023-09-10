@@ -14,8 +14,6 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=progdeess&show_icons=true&theme=transparent)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=progdeess&layout=compact)
 <!---
 pRogDeess/pRogDeess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
