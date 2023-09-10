@@ -1,4 +1,4 @@
-** 👋 Hi, I’m @pRogDeess**
+# 👋 Hi, I’m @pRogDeess
 - 👀 I’m interested/learning in soft. eng. and front-dev., and motion-design
 - 🌱 I’m currently learning front-end. and developing my qr attendance system
 - 💞️ I’m looking to collaborate on anything...
