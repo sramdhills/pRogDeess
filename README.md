@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dee || Hills!
 - 👀 I’m interested/learning in soft. eng. and front-dev., and motion-design
-- 🌱 I’m currently learning front-end. and developing my qr attendance system
+- 🌱 I’m currently learning front-end. but the goal is fullstack
 - 💞️ I’m looking to collaborate on anything...
 - 📫 How to reach me dhillsbest2000@gmail.com
 ## Tech Stack
