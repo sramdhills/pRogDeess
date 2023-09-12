@@ -16,7 +16,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=progdeess&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=progdeess&layout=compact)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6443d92de272577374949f7c?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6443d92de272577374949f7c?variant=dark)](https://roadmap.sh)
 
 
 <!---
