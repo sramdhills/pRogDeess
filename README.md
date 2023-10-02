@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Dee || Hills!
+# 👋 const name = "D Hills"
 - 👀 I’m interested/learning in soft. eng. and front-dev., and motion-design
 - 🌱 I’m currently learning front-end||web development through TOP. but the goal is fullstack
 - 📫 How to reach me dhillsbest2000@gmail.com
